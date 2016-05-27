@@ -9,7 +9,7 @@ The results of our 2015-2016 survey on research tool usage can provide insights 
 
 The full raw and cleaned dataset of the survey (20,663 responses) is available on [Zenodo] (http://dx.doi.org/10.5281/zenodo.49583). Quick exploration of the survey results can be done in an [interactive dashboard on Silk] (http://dashboard101innovations.silk.co), but many more in-depth analyses are possible. To facilitate this, we also made the data available as [open dataset on Kaggle] (https://www.kaggle.com/bmkramer/101-innovations-research-tools-survey) where scripts (in R, Python, Julia) can be written, executed and shared. 
 
-## Mozilla Science Lab Global Sprint 2016 (2nd - 3rd June, 2016)
+## Mozilla Science Lab Global Sprint 2016 (June 2-3, 2016)
 During the upcoming [Mozilla Science Lab Global Sprint
 2016](https://www.mozillascience.org/global-sprint-2016), we intend to make a head-start with these analyses by bringing together people with expertise in numerical and textual analysis. We invite all smart people, but especially those with experience in e.g. R, Python, Google Refine, NVIVO or AtlasTI. Any and all ideas for analysis are welcome! You are invited to join us, which you can announce here: https://ti.to/mozilla-science/gs2016-utrecht.
 
