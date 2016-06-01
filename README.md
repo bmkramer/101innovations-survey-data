@@ -15,6 +15,8 @@ During the upcoming [Mozilla Science Lab Global Sprint
 
 Please note that the sprint will take place between 9:00-13:00 on both days. Participants are of course free to continue working after these hours, and online support will be given wherever possible.
 
+During the sprint, we will be using this etherpad to share thoughts, ideas, code snippets etc.: https://public.etherpad-mozilla.org/p/sprintutrecht
+
 ## Further Information
 
 - The project [Innovations in Scholarly Communication] (https://101innovations.wordpress.com/about-1/)
