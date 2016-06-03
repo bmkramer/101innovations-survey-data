@@ -18,7 +18,7 @@ Please note that the sprint will take place between 9:00-13:00 on both days. Par
 During the sprint, we will be using this etherpad to share thoughts, ideas, code snippets etc.: https://public.etherpad-mozilla.org/p/sprintutrecht
 
 ## Issue list
-We added a [list of (broadly formulated) issues] (https://github.com/bmkramer/101innovations-survey-data/issues) to work on. 
+We added a [list of (broadly formulated) issues] (https://github.com/bmkramer/101innovations-survey-data/issues) to work on. Please add to them, add your comments and contribute where you can and want! 
 
 ## Further Information
 
