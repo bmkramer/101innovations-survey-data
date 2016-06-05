@@ -100,3 +100,32 @@ for (i in 1:nrow(frequencies)) {
 
 #### This should fill al the cells with frequency counts. (you should probably spot check 
 #### if the numbers are indeed correct)
+
+#### 
+frequencies_normal <- frequencies
+
+### this one has the problem that it sums over all values, but 1,1 2,2 etc
+### ARE the maximum values.
+# for (i in 1:nrow(frequencies)){
+#     for(j in vars) {
+#         frequencies_normal[i,j] <- (2* frequencies[i,j]/
+#             (sum(frequencies[i])+sum(frequencies[,j])))
+#     }
+# }
+
+
+#### This function loops through all cells
+#### and takes the value in that cell and divides it by 
+#### total amount of time that the individual tools are used by themselves.
+#### This should weigh the tooluse in perspective of the 
+#### total tool use. I think.
+#### The diagonal is now 1, which makes sense. 
+#### 
+#### A greater number means that the toolcombination is more often used      
+for (i in 1:nrow(frequencies)){
+    for(j in seq_along(vars)) {
+        frequencies_normal[i,j] <- (2* frequencies[i,j]/
+                                        (frequencies[i,i]+frequencies[j,j]))
+    }
+}
+
