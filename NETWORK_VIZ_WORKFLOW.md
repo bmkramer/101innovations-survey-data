@@ -1,4 +1,4 @@
-# Description of workflow used to create network visualization of tools used together (preset answer options only)
+# Description of workflow used to create network visualization of tools used together
 - taking on [issue #11] (https://github.com/bmkramer/101innovations-survey-data/issues/11)
 - using [Gephi] (https://gephi.org/) as visualization tool
 - for preset answer options only
@@ -8,12 +8,13 @@
 - tool variables coupled with GEO and TMIE classification (to be used as modularities in network viz): [coupling_variables_toolID_TMIE_GEO.csv] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/coupling_variables_toolID_TMIE_GEO.csv)
 
 ## Step 1: Convert co-occurrence matrix for import in Gephi
-I hope to start with the adjacency matrix of co-occurrence frequencies and load that into Gephi as per here: gephi/gephi#1143.
+Clean co-occurrence matrix for import in Gephi as described here: https://github.com/gephi/gephi/issues/1143.
 
 This will require some permutations that would be great if coded into R (but I'll probably do them in Calc for now):
 
-replace column names in first row with sequential numbers (as in first column), remove last column (with names)
-create separate csv with two columns: sequential numbers and names (e.g. current first and last column
+1) Replace column names in first row with sequential numbers (as in first column), remove last column (with names)
+This will create a csv that can be imported in Gephi and will be automatically processed into an edge table
 
-The first permutation is necessary to import the csv into Gephi and have it processed properly into an edge table
-The second permutation enables import in Gephi as node table.
+2) Create separate csv with sequential numbers, names (e.g. current first and last column). Add columns for research activity, research phase, TMIE en GEO classification
+This csv can be imported into Gephi as node table. 
+
