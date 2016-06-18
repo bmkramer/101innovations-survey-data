@@ -15,10 +15,10 @@ This will require creating two copies of the co-occurrence matrix (see 'source f
 A) Replace column names in first row with sequential numbers (as in first column), remove last column (with names)
 This will create a csv that can be imported in Gephi and will be automatically processed into an edge table.
 
-Resulting file: 
+Resulting file: [to be added]
 
 B) Only keep first and last column (sequential numbers, names). Add column with unique tool names (e.g. Scopus (search), Scopus (impact)). Add columns for research activity, research phase, TMIE en GEO classification. 
 This csv can be imported into Gephi as node table. 
 
-Resulting file: 
+Resulting file: [to be added]
 
