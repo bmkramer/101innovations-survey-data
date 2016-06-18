@@ -47,7 +47,8 @@ To assign colors, node size etc, information on node attributes will have to be 
 -  Click OK to start export; save the resulting csv file
 
 Resulting files:
-
+[survey_presets_frequencies_edgematrix [Nodes].csv] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/survey_presets_frequencies_edgematrix%20%5BNodes%5D.csv)
+[] ()
 
 ## Step 4: Enhance node table with attributes 
 Attributes to add:
