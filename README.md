@@ -16,6 +16,7 @@ It would be great to have this step coded in R (but I'll probably do it in Calc 
 
 - Replace column names in first row with sequential numbers (as in first column), 
 - Remove last column (with names)
+- Field separator: semicolon 
 
 This resulting csv can be imported in Gephi and will be automatically processed into an edge table.
 
