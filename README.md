@@ -18,7 +18,7 @@ It would be great to have this step coded in R (but I'll probably do it in Calc 
 - Remove last column
 - Field separator: semicolon 
 
-This resulting csv can be imported in Gephi and will be automatically processed into an edge table.
+This resulting csv can be imported in Gephi and will be automatically processed into a node and edge table.
 
 Resulting file: [survey_presets_frequencies_edgematrix.csv] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/survey_presets_frequencies_edgematrix.csv)
 
