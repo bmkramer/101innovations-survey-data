@@ -39,12 +39,12 @@ To assign colors, node size etc, information on node attributes will have to be 
   - Columns: Id, Label
 - Click OK to start export; save the resulting csv file
 
-- Next, choose 'Edges' in the menu bar and choose the option 'Export table'
+- Next, select 'Edges' in the menu bar and choose the option 'Export table'
 - Choose the following settings:
   - Separator: Comma
   - Charset: UTF-8
   - Columns: Source, Target, Type, Id, Weight
--  Click OK to start export; save the resulting csv file
+- Click OK to start export; save the resulting csv file
 
 Resulting files:
 - [survey_presets_frequencies_edgematrix [Nodes].csv] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/survey_presets_frequencies_edgematrix%20%5BNodes%5D.csv)
