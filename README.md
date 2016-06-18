@@ -56,7 +56,7 @@ Attributes to add:
 - Weight
 - Activity
 - Phase
-- TMIE
+- TMIR
 - GEO
 
 - Take node table exported from Gephi ([survey_presets_frequencies_edgematrix [Nodes].csv] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/survey_presets_frequencies_edgematrix%20%5BNodes%5D.csv)) and modify/add columns as follows:
@@ -66,3 +66,13 @@ Attributes to add:
   - Add column **Phase** with research phase as mentioned in the survey (Discovery, Analysis, Writing, Publication, Outreach, Assessment)
   - Add column **TMIE** with TMIE-classification of each tool (Traditional, Modern, Innovative, Experimental)
   - Add column **GEO** with GEO-classification of each tool (Good, Efficient, Open, or a combination of two of these)
+
+This step could as be coded in R as well, but for now, I did it in Calc with VLOOKUP and some manual adjustmentns for unique tool names. 
+
+Attributes can be retrieved from:
+- survey data (cleaned) (**Weight**) (from [Zenodo] (http://dx.doi.org/10.5281/zenodo.49583) or [Kaggle] (https://www.kaggle.com/bmkramer/101-innovations-research-tools-survey))
+- survey variable list (**Label**, **Activity**) (from [Zenodo] (http://dx.doi.org/10.5281/zenodo.49583) or [Kaggle] (https://www.kaggle.com/bmkramer/101-innovations-research-tools-survey))
+- [tools database] (http://bit.ly/innoscholcomm-list) (**Phase**, linked to Activity)
+- [coupling_variables_toolID_TMIE_GEO.csv] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/coupling_variables_toolID_TMIE_GEO.csv) (**Label**, **TMIE**, **GEO**)
+
+Resulting file: 
