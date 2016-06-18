@@ -39,7 +39,7 @@ To assign colors, node size etc, information on node attributes will have to be 
   - Columns: Id, Label
 - Click OK to start export; save the resulting csv file
 
-- Next, select 'Edges' in the menu bar and choose the option 'Export table'
+- Next, select 'Edges' in the menu bar and choose the option 'Export table'  
 - Choose the following settings:
   - Separator: Comma
   - Charset: UTF-8
