@@ -16,7 +16,7 @@ It would be great to have this step coded in R (but I'll probably do it in Calc 
 
 - Replace numbers in first column with column headers transposed (as in last column)
 - Remove last column
-- Field separator: semicolon 
+- Field separator: **semicolon** 
 - NB Column headers should not contain spaces
 
 This resulting csv can be imported in Gephi and will be automatically processed into a node and edge table.
@@ -34,16 +34,16 @@ To assign colors, node size etc, information on node attributes will have to be 
 ## Step 3: Export node and edge tables from Gephi
 - In the tab Data Laboratory, select 'Nodes' in the menu bar and choose the option 'Export table'
 - Choose the following settings:
--- Separator: Comma
--- Charset: UTF-8
--- Columns: Id, Label
+  - Separator: Comma
+  - Charset: UTF-8
+  - Columns: Id, Label
 - Click OK to start export; save the resulting csv file
 
 - Next, choose 'Edges' in the menu bar and choose the option 'Export table'
 - Choose the following settings:
-> Separator: Comma
-> Charset: UTF-8
-> Columns: Source, Target, Type, Id, Weight
+  - Separator: Comma
+  - Charset: UTF-8
+  - Columns: Source, Target, Type, Id, Weight
 -  Click OK to start export; save the resulting csv file
 
 Resulting files:
