@@ -58,3 +58,11 @@ Attributes to add:
 - Phase
 - TMIE
 - GEO
+
+- Take node table exported from Gephi ([survey_presets_frequencies_edgematrix [Nodes].csv] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/survey_presets_frequencies_edgematrix%20%5BNodes%5D.csv)) and modify/add columns as follows:
+  - Replace names in column **Label** with unique tool names (e.g. Scopus (search); Scopus (impact); etc)
+  - Add column **Weight** with frequency data for each tool (format: 18800.0)
+  - Add column **Activity** with research activity as mentioned in the survey (Search, Access, Alerts, etc)
+  - Add column **Phase** with research phase as mentioned in the survey (Discovery, Analysis, Writing, Publication, Outreach, Assessment)
+  - Add column **TMIE** with TMIE-classification of each tool (Traditional, Modern, Innovative, Experimental)
+  - Add column **GEO** with GEO-classification of each tool (Good, Efficient, Open, or a combination of two of these)
