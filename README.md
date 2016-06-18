@@ -29,7 +29,24 @@ Resulting file: [survey_presets_frequencies_edgematrix.csv] (https://github.com/
 - In the dialog screen that appears, choose 'undirected' as graph type and click OK
 - The matrix will be imported, and the network will be shown in random layout. 
 
-To assign colors, node size etc, node attributes will have to be added. In the next step, we will export the node and edge tables from Gephi and enhance the node table with information on attributes.
+To assign colors, node size etc, information on node attributes will have to be added. In the next step, we will export the node and edge tables from Gephi and enhance the node table with information on attributes.
 
 # Step 3: Export node and edge table from Gephi
-- In the tab Data Laboratory
+- In the tab Data Laboratory, select 'Nodes' in the menu bar and choose the option 'Export table'
+- Choose the following settings:
+-- Separator: Comma
+-- Charset: UTF-8
+-- Columns: Id, Label
+- Click OK to start export; save the resulting csv file
+
+- Next, choose 'Edges' in the menu bar and choose the option 'Export table'
+- Choose the following settings:
+-- Separator: Comma
+-- Charset: UTF-8
+-- Columns: Source, Target, Type, Id, Weight
+-  Click OK to start export; save the resulting csv file
+
+Resulting files:
+
+
+# Step 4: Enhance node table with attributes (Label, Weight, Activity, Phase, TMIE, GEO)
