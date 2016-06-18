@@ -17,6 +17,7 @@ It would be great to have this step coded in R (but I'll probably do it in Calc 
 - Replace numbers in first column with column headers transposed (as in last column)
 - Remove last column
 - Field separator: semicolon 
+- NB Column headers should not contain spaces
 
 This resulting csv can be imported in Gephi and will be automatically processed into a node and edge table.
 
