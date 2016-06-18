@@ -1,4 +1,4 @@
-# Description of workflow used to create network visualization of tools used together
+# Description of workflow to create network visualization of tools used together
 - taking on [issue #11] (https://github.com/bmkramer/101innovations-survey-data/issues/11)
 - using [Gephi] (https://gephi.org/) as visualization tool
 - for preset answer options only
