@@ -10,11 +10,13 @@
 ## Step 1: Convert co-occurrence matrix for import in Gephi
 Clean co-occurrence matrix for import in Gephi as described here: https://github.com/gephi/gephi/issues/1143.
 
-This will require some permutations that would be great if coded into R (but I'll probably do them in Calc for now):
+This will require creating two copies of the co-occurrence matrix with some permutations.  It would be great to have this step coded in R (but I'll probably do them in Calc for now):
 
-1) Replace column names in first row with sequential numbers (as in first column), remove last column (with names)
-This will create a csv that can be imported in Gephi and will be automatically processed into an edge table
+1) File 1: Replace column names in first row with sequential numbers (as in first column), remove last column (with names)
+This will create a csv that can be imported in Gephi and will be automatically processed into an edge table.
+Resulting file: 
 
-2) Create separate csv with sequential numbers, names (e.g. current first and last column). Add columns for research activity, research phase, TMIE en GEO classification
+2) File 2: Only keep first and last column (sequential numbers, names). Replace names with unique tool names (e.g. Scopus (search), Scopus (impact)). Add columns for research activity, research phase, TMIE en GEO classification. 
 This csv can be imported into Gephi as node table. 
+Resulting file: 
 
