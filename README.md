@@ -31,7 +31,7 @@ Resulting file: [survey_presets_frequencies_edgematrix.csv] (https://github.com/
 
 To assign colors, node size etc, information on node attributes will have to be added. In the next step, we will export the node and edge tables from Gephi and enhance the node table with information on attributes.
 
-# Step 3: Export node and edge table from Gephi
+## Step 3: Export node and edge tables from Gephi
 - In the tab Data Laboratory, select 'Nodes' in the menu bar and choose the option 'Export table'
 - Choose the following settings:
 -- Separator: Comma
@@ -49,4 +49,11 @@ To assign colors, node size etc, information on node attributes will have to be 
 Resulting files:
 
 
-# Step 4: Enhance node table with attributes (Label, Weight, Activity, Phase, TMIE, GEO)
+## Step 4: Enhance node table with attributes 
+Attributes to add:
+- Label
+- Weight
+- Activity
+- Phase
+- TMIE
+- GEO
