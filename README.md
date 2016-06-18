@@ -5,7 +5,7 @@
 
 ## Source files
 - co-occurrence matrix (created with [frequencies_of_bivariate_tool_use.R] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/frequencies_of_bivariate_tool_use.R)): [survey_presets_frequencies.csv] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/survey_presets_frequencies.csv)
-- tool variables coupled with GEO and TMIE classification (to be used as modularities in network viz): [coupling_variables_toolID_TMIE_GEO.csv] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/coupling_variables_toolID_TMIE_GEO.csv)
+- - tool variables coupled with GEO and TMIE classification (to be used as modularities in network viz): [coupling_variables_toolID_TMIE_GEO.csv] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/coupling_variables_toolID_TMIE_GEO.csv)
 
 ## Step 1: Convert co-occurrence matrix for import in Gephi
 Convert co-occurrence matrix for import in Gephi as described here: https://github.com/gephi/gephi/issues/1143.
@@ -41,14 +41,14 @@ To assign colors, node size etc, information on node attributes will have to be 
 
 - Next, choose 'Edges' in the menu bar and choose the option 'Export table'
 - Choose the following settings:
--- Separator: Comma
--- Charset: UTF-8
--- Columns: Source, Target, Type, Id, Weight
+> Separator: Comma
+> Charset: UTF-8
+> Columns: Source, Target, Type, Id, Weight
 -  Click OK to start export; save the resulting csv file
 
 Resulting files:
-[survey_presets_frequencies_edgematrix [Nodes].csv] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/survey_presets_frequencies_edgematrix%20%5BNodes%5D.csv)
-[] ()
+- [survey_presets_frequencies_edgematrix [Nodes].csv] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/survey_presets_frequencies_edgematrix%20%5BNodes%5D.csv)
+- [survey_presets_frequencies_edgematrix [Edges].csv] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/survey_presets_frequencies_edgematrix%20%5BEdges%5D.csv)
 
 ## Step 4: Enhance node table with attributes 
 Attributes to add:
