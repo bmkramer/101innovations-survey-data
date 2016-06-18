@@ -17,7 +17,7 @@ This will create a csv that can be imported in Gephi and will be automatically p
 
 Resulting file: 
 
-B) Only keep first and last column (sequential numbers, names). Replace names with unique tool names (e.g. Scopus (search), Scopus (impact)). Add columns for research activity, research phase, TMIE en GEO classification. 
+B) Only keep first and last column (sequential numbers, names). Add column with unique tool names (e.g. Scopus (search), Scopus (impact)). Add columns for research activity, research phase, TMIE en GEO classification. 
 This csv can be imported into Gephi as node table. 
 
 Resulting file: 
