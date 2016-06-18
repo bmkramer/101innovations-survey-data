@@ -8,16 +8,16 @@
 - tool variables coupled with GEO and TMIE classification (to be used as modularities in network viz): [coupling_variables_toolID_TMIE_GEO.csv] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/coupling_variables_toolID_TMIE_GEO.csv)
 
 ## Step 1: Convert co-occurrence matrix for import in Gephi
-Clean co-occurrence matrix for import in Gephi as described here: https://github.com/gephi/gephi/issues/1143.
+Convert co-occurrence matrix for import in Gephi as described here: https://github.com/gephi/gephi/issues/1143.
 
 This will require creating two copies of the co-occurrence matrix with some permutations.  It would be great to have this step coded in R (but I'll probably do them in Calc for now):
 
-1) Replace column names in first row with sequential numbers (as in first column), remove last column (with names)
+A) Replace column names in first row with sequential numbers (as in first column), remove last column (with names)
 This will create a csv that can be imported in Gephi and will be automatically processed into an edge table.
 
 Resulting file: 
 
-2) Only keep first and last column (sequential numbers, names). Replace names with unique tool names (e.g. Scopus (search), Scopus (impact)). Add columns for research activity, research phase, TMIE en GEO classification. 
+B) Only keep first and last column (sequential numbers, names). Replace names with unique tool names (e.g. Scopus (search), Scopus (impact)). Add columns for research activity, research phase, TMIE en GEO classification. 
 This csv can be imported into Gephi as node table. 
 
 Resulting file: 
