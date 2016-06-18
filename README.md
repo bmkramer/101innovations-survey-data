@@ -56,6 +56,7 @@ Attributes to add:
 - Weight
 - Activity
 - Phase
+- TMIE
 - GEO
 - TMIR
 - GEO
