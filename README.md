@@ -58,8 +58,6 @@ Attributes to add:
 - Phase
 - TMIE
 - GEO
-- TMIR
-- GEO
 
 - Take node table exported from Gephi ([survey_presets_frequencies_edgematrix [Nodes].csv] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/survey_presets_frequencies_edgematrix%20%5BNodes%5D.csv)) and modify/add columns as follows:
   - Replace names in column **Label** with unique tool names (e.g. Scopus (search); Scopus (impact); etc)
