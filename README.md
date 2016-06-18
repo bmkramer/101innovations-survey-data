@@ -26,3 +26,8 @@ Resulting file: [survey_presets_frequencies_edgematrix.csv] (https://github.com/
 ## Step 2: Upload converted co-occurrence matrix into Gephi
 
 - In Gephi, use File > Open to import converted co-occurrence matrix
+- In the dialog screen that appears, choose 'undirected' as graph type and click OK
+- The matrix will be imported
+
+# Step 3: Export node and edge table from Gephi
+- In the tab Data Laboratory
