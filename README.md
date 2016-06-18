@@ -23,3 +23,4 @@ Resulting file: [survey_presets_frequencies_edgematrix.csv] (https://github.com/
 
 ## Step 2: Upload converted co-occurrence matrix into Gephi
 
+- In Gephi, use File > Open to import converted co-occurrence matrix
