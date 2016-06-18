@@ -14,8 +14,8 @@ This will require some permutations in the original co-occurence matrix ([survey
 
 It would be great to have this step coded in R (but I'll probably do it in Calc for now):
 
-- Replace column names in first row with sequential numbers (as in first column), 
-- Remove last column (with names)
+- Replace numbers in first column with column headers transposed (as in last column)
+- Remove last column
 - Field separator: semicolon 
 
 This resulting csv can be imported in Gephi and will be automatically processed into an edge table.
