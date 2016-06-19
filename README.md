@@ -75,7 +75,7 @@ Attributes can be retrieved from:
 - [tools database] (http://bit.ly/innoscholcomm-list) (**Phase**, linked to Activity)
 - [coupling_variables_toolID_TMIE_GEO.csv] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/coupling_variables_toolID_TMIE_GEO.csv) (**Label**, **TMIE**, **GEO**)
 
-Resulting file: 
+Resulting file: [survey_presets_frequencies_edgematrix_[Nodes]_attributes.csv] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/survey_presets_frequencies_edgematrix_%5BNodes%5D_attributes.csv)
 
 ## Step 5: Import enhanced node table into Gephi
 - In Gephi, select the tab Data Laboratory and choose 'Import spreadsheet'
