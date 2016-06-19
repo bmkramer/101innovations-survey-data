@@ -77,9 +77,9 @@ Attributes can be retrieved from:
 
 Resulting file: 
 
-## Step 2: Import enhanced node table into Gephi
+## Step 5: Import enhanced node table into Gephi
 - In Gephi, select the tab Data Laboratory and choose 'Import spreadsheet'
-- In the dialog screen (**General options**), select the csv to upload, choose the following settings and click Next:
+- In the first dialog screen (**General options**), select the csv to upload, choose the following settings and click Next:
   - Separator: Comma
   - As table: Nodes table
   - Charset: UTF-8
@@ -89,4 +89,7 @@ Resulting file:
   - Set type of column **Weight** to **Double**
   - Option 'Force nodes to be created as new ones' should be unchecked (default setting)
 
+The node table will now be imported and all existing nodes will be updated with the new information. 
+
+## Step 6: Create network visualization in Gephi
 
