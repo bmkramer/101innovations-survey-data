@@ -1,0 +1,137 @@
+Id,Label,Weight,Activity,Phase,TMIE,GEO
+GSCHOLSEARCH,Google Scholar (search),18188,search,discovery,I,E
+WOSSEARCH,Web of Science (search),8469,search,discovery,T,E
+SCOPSEARCH,Scopus (search),5410,search,discovery,M,E
+MENDSEARCH,Mendeley (search),2749,search,discovery,I,E/O
+WORLDCAT,WorldCat,2290,search,discovery,M,E
+PUBMED,PubMed,8180,search,discovery,T,E
+PAPERI,Paperity,549,search,discovery,I,O
+SEARCHOTHCL,others (search),7370,search,discovery,#N/A,#N/A
+INSTACC,Institutional access,18016,access,discovery,M,O
+PAYVIEW,Pay per view,2447,access,discovery,M,E
+RGATEACCESS,ResearchGate (access),9503,access,discovery,I,O
+RES4LIFE,Research4Life,243,access,discovery,M,O
+OABUT,Open Access Button,5534,access,discovery,E,O
+DEEPDYVE,Deepdyve,159,access,discovery,I,E
+MAILAUTH,E-mail author,5603,access,discovery,T,E
+ACCESSOTHCL,others (access),2933,access,discovery,#N/A,#N/A
+GSCHOLALERT,Google Scholar (alerts),10051,alerts,discovery,I,E
+JRNLTOCS,JournalTOCs,2783,alerts,discovery,M,E
+BROWZINE,Browzine,374,alerts,discovery,M,E
+MENDALERT,Mendeley (alerts),1375,alerts,discovery,I,E/O
+F1000PRI,F1000Prime,374,alerts,discovery,I,E
+SPARRHO,Sparrho,96,alerts,discovery,E,E
+RGATEALERT,ResearchGate (alerts),7808,alerts,discovery,I,O
+ALERTOTHCL,others (alerts),4275,alerts,discovery,#N/A,#N/A
+ACROBAT,Acrobat Reader,18319,read,discovery,T,E
+HTMLVIEW,HTML view,8238,read,discovery,M,E
+IANNOTATE,iAnnotate,506,read,discovery,I,E
+READCUBE,ReadCube,1236,read,discovery,E,E
+UTOPDOCS,UtopiaDocs,109,read,discovery,E,E
+MENDREAD,Mendeley (read),2870,read,discovery,I,E/O
+HYPOTHES,Hypothes.is,191,read,discovery,E,E
+READOTHCL,others (read),3271,read,discovery,#N/A,#N/A
+RTOOL,R,3793,analyze,analysis,M,E
+SPSS,SPSS,6992,analyze,analysis,T,E
+MATLAB,Matlab,3098,analyze,analysis,M,E
+EXCEL,Excel,14386,analyze,analysis,T,E
+IPYTHON,iPython Notebook,802,analyze,analysis,E,E
+ROPENSCI,ROpenSci,303,analyze,analysis,E,E
+DHBOX,DHbox,85,analyze,analysis,I,E
+ANALYZOTHCL,others (analyze),6367,analyze,analysis,#N/A,#N/A
+OPSCIFRAM,Open Science Framework,1237,share notebooks,analysis,E,G
+MYEXP,myExperiment,350,share notebooks,analysis,I,O
+BENCHLING,BenchLing,108,share notebooks,analysis,I,E/O
+PROTOCIO,Protocols.io,363,share notebooks,analysis,I,O
+BENCHFLY,Benchfly,108,share notebooks,analysis,M,E/O
+SCIPROT,Scientific Protocols,650,share notebooks,analysis,E,O
+PROTOCONL,Protocol Online,407,share notebooks,analysis,M,E/O
+NOTEOTHCL,others (share notebooks),3540,share notebooks,analysis,#N/A,#N/A
+WORD,Word,18571,write,writing,T,E
+GTDRIVE,Google Drive/Docs,6636,write,writing,M,E
+AUTHOREA,Authorea,186,write,writing,I,O
+LATEX,LaTeX,3753,write,writing,M,E
+SCRIVEN,Scrivener,554,write,writing,M,E
+OVERLEAF,Overleaf,395,write,writing,E,O
+SCALAR,Scalar,85,write,writing,E,O
+WRITEOTHCL,others (write),2186,write,writing,#N/A,#N/A
+ENDNOTE,EndNote,7540,reference management,writing,T,E
+ZOTERO,Zotero,2872,reference management,writing,I,E/O
+REFWORKS,RefWorks,2342,reference management,writing,M,E
+MENDREF,Mendeley (ref. management),3992,reference management,writing,I,E/O
+PAPERS,Papers,1474,reference management,writing,I,E
+REFME,REfME,272,reference management,writing,I,E
+CITAVI,Citavi,754,reference management,writing,M,E
+REFOTHCL,others (ref. management),2268,reference management,writing,#N/A,#N/A
+ARXIV,arXiv,1549,share publications,publication,M,O
+PMC,PubMed Central,2318,share publications,publication,M,O
+INREP,Institutional repository,5886,share publications,publication,M,O
+BIORXIV,bioRxiv,253,share publications,publication,I,O
+WORKPAP,working papers,2371,share publications,publication,T,O
+RGATESHAREPUB,ResearchGate (share pub),8998,share publications,publication,I,O
+SSRN,SSRN,856,share publications,publication,M,O
+SHAREPUBOTHCL,others (share pub),2968,share publications,publication,#N/A,#N/A
+GITHUB,GitHub,2581,share data,publication,I,O
+FIGSDATA,Figshare (share data),1112,share data,publication,I,O
+ZENODATA,Zenodo (share data),363,share data,publication,I,O
+DRYAD,Dryad,467,share data,publication,I,O
+DATAVERSE,Dataverse,557,share data,publication,I,O
+PANGAEA,Pangaea,191,share data,publication,M,O
+BITBUCK,BitBucket,596,share data,publication,I,O
+DATAOTHCL,others (share data),2239,share data,publication,#N/A,#N/A
+JCRIFSEL,JCR/IF (select journal),6093,select journal,publication,T,E
+DOAJ,DOAJ,1872,select journal,publication,M,O
+SCOPSEL,Scopus (select journal),4311,select journal,publication,M,E
+SHERPAROM,Sherpa Romeo,1022,select journal,publication,M,O
+QOAM,QOAM,240,select journal,publication,I,E
+SCIMAGO,SCImago Journal Rank,1951,select journal,publication,M,E
+JOURNALYS,Journalysis,880,select journal,publication,I,E
+JRNLOTHCL,others (select journal),2269,select journal,publication,#N/A,#N/A
+JTOPTRAD,Topical journal (trad. publ.),13542,publish,publication,T,E
+JTOPOA,Topical journal (OA publ.),5378,publish,publication,I,O
+MEGATRAD,Megajournal (trad. publ.),4243,publish,publication,I,E
+MEGAOA,Megajournal (OA publ.),3228,publish,publication,I,O
+DATAJRNL,Data journal,265,publish,publication,I,O
+WINNOWER,Winnower,110,publish,publication,E,G
+F1000RES,F1000Research,408,publish,publication,I,O
+PUBLOTHCL,others (publish),1277,publish,publication,#N/A,#N/A
+SPEAKER,Speakerdeck,296,share posters,outreach,M,O
+SLIDSHA,Slideshare,3295,share posters,outreach,M,O
+F1000POS,F1000Posters,377,share posters,outreach,M,O
+SCIOPPO,ScienceOpen Posters,416,share posters,outreach,I,O
+FIGSPOST,Figshare (share posters),864,share posters,outreach,I,O
+ZENOPOST,Zenodo (share posters),196,share posters,outreach,I,O
+VIMEO,Vimeo,969,share posters,outreach,M,E
+POSTOTHCL,others (share posters),1931,share posters,outreach,#N/A,#N/A
+WIKIPEDIA,Wikipedia,3516,outreach,outreach,I,O
+RESBLOG,ResearchBlogging.org,798,outreach,outreach,M,E
+WORDPRESS,Wordpress,3024,outreach,outreach,M,E
+KUDOS,Kudos,442,outreach,outreach,I,G
+FAMELAB,FameLab,143,outreach,outreach,I,O
+PINTSCI,Pint of Science,171,outreach,outreach,I,O
+TWITTER,Twitter,5601,outreach,outreach,I,O
+TELLOTHCL,others (outreach),2931,outreach,outreach,#N/A,#N/A
+SCHOLARCIT,Google Scholar Citations,10692,profiles,outreach,I,E
+RGATEPROF,ResearchGate (profiles),11378,profiles,outreach,I,O
+ORCID,ORCID,5867,profiles,outreach,I,E
+ACADEMIA,Academia.edu,5498,profiles,outreach,I,O
+RESID,ResearcherID,2560,profiles,outreach,M,E
+INSTPAGE,Profile page at institution,4974,profiles,outreach,M,E
+MYSCIWORK,My Science Work,132,profiles,outreach,I,O
+RESPROFOTHCL,others (profiles),1239,profiles,outreach,#N/A,#N/A
+PERRSCI,Peerage of Science,758,peer review,assessment,I,G
+PUBLONS,Publons,640,peer review,assessment,E,G
+PMCCOMMONS,PubMed Commons,868,peer review,assessment,E,G
+PUBPEER,PubPeer,615,peer review,assessment,E,G
+PAPARCRIT,PaperCritic,347,peer review,assessment,I,G/O
+RUBRIQ,RubriQ,133,peer review,assessment,I,G
+KARMA,Academic Karma,150,peer review,assessment,I,G
+PROTHCL,others (peer review),495,peer review,assessment,#N/A,#N/A
+JCRIFIMP,JCR/IF (impact),6741,impact,assessment,T,E
+ALTMETRIC,Altmetric,2444,impact,assessment,I,G
+SCOPID,Scopus (impact),5673,impact,assessment,M,E
+IMPSTOR,ImpactStory,564,impact,assessment,I,G
+PLOSALM,PLOS ALM,1214,impact,assessment,I,G/O
+WOSIMP,Web of Science (impact),6797,impact,assessment,T,E
+HARZPOP,Harzing Publish or Perish,605,impact,assessment,M,E
+IMPACTOTHCL,others (impact),1304,impact,assessment,#N/A,#N/A
