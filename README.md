@@ -23,7 +23,7 @@ This resulting csv can be imported in Gephi and will be automatically processed 
 
 Resulting file: [survey_presets_frequencies_edgematrix.csv] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/survey_presets_frequencies_edgematrix.csv)
 
-## Step 2: Upload converted co-occurrence matrix into Gephi
+## Step 2: Import converted co-occurrence matrix into Gephi
 
 - In Gephi, use File > Open to import converted co-occurrence matrix
 - In the dialog screen that appears, choose 'undirected' as graph type and click OK
@@ -67,7 +67,7 @@ Attributes to add:
   - Add column **TMIE** with TMIE-classification of each tool (Traditional, Modern, Innovative, Experimental)
   - Add column **GEO** with GEO-classification of each tool (Good, Efficient, Open, or a combination of two of these)
 
-This step could as be coded in R as well, but for now, I did it in Calc with VLOOKUP and some manual adjustmentns for unique tool names. 
+This step should optimally be coded in R as well, but for now, I did it in Calc with VLOOKUP and some manual adjustments for unique tool names. 
 
 Attributes can be retrieved from:
 - survey data (cleaned) (**Weight**) (from [Zenodo] (http://dx.doi.org/10.5281/zenodo.49583) or [Kaggle] (https://www.kaggle.com/bmkramer/101-innovations-research-tools-survey))
@@ -76,3 +76,17 @@ Attributes can be retrieved from:
 - [coupling_variables_toolID_TMIE_GEO.csv] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/coupling_variables_toolID_TMIE_GEO.csv) (**Label**, **TMIE**, **GEO**)
 
 Resulting file: 
+
+## Step 2: Import enhanced node table into Gephi
+- In Gephi, select the tab Data Laboratory and choose 'Import spreadsheet'
+- In the dialog screen (**General options**), select the csv to upload, choose the following settings and click Next:
+  - Separator: Comma
+  - As table: Nodes table
+  - Charset: UTF-8
+- In the next dialog screen (**Import settings**), choose the following settings and click Finish:
+  - All columns should be checked to idicate they are to be imported (default setting)
+  - All columns except **Weight** should be of the type **String** (default setting)
+  - Set type of column **Weight** to **Double**
+  - Option 'Force nodes to be created as new ones' should be unchecked (default setting)
+
+
