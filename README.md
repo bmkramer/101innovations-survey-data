@@ -92,4 +92,13 @@ Resulting file: [survey_presets_frequencies_edgematrix_[Nodes]_attributes.csv] (
 The node table will now be imported and all existing nodes will be updated with the new information. 
 
 ## Step 6: Create network visualization in Gephi
-
+- In Gephi (with the data imported as described in step 5 above), select the tab 'Overview'. The network will be shown as an angry black spider web. We'll use various options in Gephi to make it look better. 
+- *Node size* (use weight as attribute)
+-- Appearance > Nodes > Size (circle-diameter icon)
+-- Attributes > Weight
+-- Min size: 10, Max size: 100, Spline: linear (default) (example values)
+- *Node color* (use TMIE-classification as attribute)
+-- Appearance > Nodes > Color (painter's palette icon)
+-- Attributes > TMIE
+-- Right click color squares to set colors (e.g. dark-light gradient of one color, with grey for #N/A)
+- **Layout**
