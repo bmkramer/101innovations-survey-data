@@ -94,11 +94,18 @@ The node table will now be imported and all existing nodes will be updated with 
 ## Step 6: Create network visualization in Gephi
 - In Gephi (with the data imported as described in step 5 above), select the tab 'Overview'. The network will be shown as an angry black spider web. We'll use various options in Gephi to make it look better. 
 - *Node size* (use weight as attribute)
--- Appearance > Nodes > Size (circle-diameter icon)
--- Attributes > Weight
--- Min size: 10, Max size: 100, Spline: linear (default) (example values)
+  - Appearance > Nodes > Size (circle-diameter icon)
+  - Attributes > Weight
+  - Min size: 10, Max size: 100, Spline: linear (default) (example values)
 - *Node color* (use TMIE-classification as attribute)
--- Appearance > Nodes > Color (painter's palette icon)
--- Attributes > TMIE
--- Right click color squares to set colors (e.g. dark-light gradient of one color, with grey for #N/A)
-- **Layout**
+  - Appearance > Nodes > Color (painter's palette icon)
+  - Attributes > TMIE
+  - Right click color squares to set colors (e.g. dark-light gradient of one color, with grey for #N/A)
+- **Layout** (use Force Atlas 2 algorithm) 
+  - Layout >  Force Atlas 2
+  - Tick Prevent Overlap,Dissuade Hubs
+  - Scaling 400
+  - Tick Stronger Gravity
+  - Gravity 0.25
+- *Labels* 
+- 
