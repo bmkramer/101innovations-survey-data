@@ -101,11 +101,19 @@ The node table will now be imported and all existing nodes will be updated with 
   - Appearance > Nodes > Color (painter's palette icon)
   - Attributes > TMIE
   - Right click color squares to set colors (e.g. dark-light gradient of one color, with grey for #N/A)
-- **Layout** (use Force Atlas 2 algorithm) 
+- *Layout* (use Force Atlas 2 algorithm) 
   - Layout >  Force Atlas 2
   - Tick Prevent Overlap,Dissuade Hubs
   - Scaling 400
   - Tick Stronger Gravity
   - Gravity 0.25
-- *Labels* 
-- 
+  - Additional layout options: Expand, Label adjust
+- *Labels*
+  - In dropdown menu under graph display, choose Labels
+  - Tick Node
+  - Size: Node size
+  - Font Arial Bold 32, use slider to adjust
+  
+  To see a preview of the graph, select the tab Layout 
+
+To view 
