@@ -146,3 +146,4 @@ To filter for different clusters:
 
 ![Complete network](https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/Survey_network_test1.png)
 
+![Cluster examples] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/Cluster%20examples.png)
