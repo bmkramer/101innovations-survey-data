@@ -137,7 +137,7 @@ To filter for different clusters:
   -  [Survey_network_test1.gephi] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/Survey_network_test1.gephi)
   -  [Survey_network_test1.gexf] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/Survey_network_test1.gexf)
 - Images
-  - [Cpomplete network] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/Survey_network_test1.png)
+  - [Complete network] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/Survey_network_test1.png)
   - Clusters: [0] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/Survey_network_test1_cluster0.png), [1] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/Survey_network_test1_cluster1.png), [2] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/Survey_network_test1_cluster2.png), [3] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/Survey_network_test1_cluster3.png), [4] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/Survey_network_test1_cluster4.png), [5] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/Survey_network_test1_cluster5.png), [6] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/Survey_network_test1_cluster6.png)
 
 ## Some remarks
