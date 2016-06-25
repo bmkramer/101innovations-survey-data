@@ -132,6 +132,16 @@ To filter for different clusters:
 - Choose Graph file to export as .gephi file (to work on in Gephi) or .gexf to use in other programs 
 - Choose SVG/PDF/PNG to export as... those. 
 
-## Resulting files: 
+## Resulting files 
+- Graph files:
+  -  [Survey_network_test1.gephi] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/Survey_network_test1.gephi)
+  -  [Survey_network_test1.gexf] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/Survey_network_test1.gexf)
+- Images
+  - [Total network] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/Survey_network_test1.png)
+  - Clusters: [0] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/Survey_network_test1_cluster0.png), [1] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/Survey_network_test1_cluster1.png), [2] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/Survey_network_test1_cluster2.png), [3] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/Survey_network_test1_cluster3.png), [4] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/Survey_network_test1_cluster4.png), [5] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/Survey_network_test1_cluster5.png), [6] (https://github.com/bmkramer/101innovations-survey-data/blob/network_viz/Survey_network_test1_cluster6.png)
+
+## Some remarks
+- Because in this case, basically all nodes are connected to all other nodes (only differing in edge weight), there are no separate clusters in the overall network view. Cluster detection (step 7) is thus done solely based on edge weight. The cluster detection algorithm Gephi used is the [Louvain method for community detection] (https://en.wikipedia.org/wiki/Louvain_Modularity)
+- In the default image export, nodes at the edges often have their labels cut off. To fix this, in the graph display in the Overview tab, drag the respective nodes to a slightly more central position. 
 
 
