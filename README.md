@@ -114,6 +114,18 @@ The node table will now be imported and all existing nodes will be updated with 
   - Size: Node size
   - Font Arial Bold 32, use slider to adjust label size
   
-  To see a preview of the graph, select the tab Layout. Adjust settings and click 'Refresh' to see the effect. 
+  To see a preview of the graph, select the tab Layout. Adjust settings and click 'Refresh' to see the effect.
+From here, you can also export the graph here as svg/pdf/png
+
+## Step 7: Clustering
+- In Gephi (with the data imported as described in step 5a, optionally prettified using settings in step 6), go to tab Overview
+- Select Statistics > Modularity > Run
+- Tick Randomize > Use weights (default)
+- Resolution: try various resolutions to see the effect on the number of clusters generated (e.g. resolution 0.9 gives 7 communities)
+
+To filter for different clusters:
+- Select Filters > Attributes > Partition > Modularity class (Nodes)
+- In Queries, select cluster you want to filter on, click Filter
+
 
 
