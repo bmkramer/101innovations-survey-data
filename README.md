@@ -115,7 +115,7 @@ The node table will now be imported and all existing nodes will be updated with 
   - Font Arial Bold 32, use slider to adjust label size
   
   To see a preview of the graph, select the tab Layout. Adjust settings and click 'Refresh' to see the effect.
-From here, you can also export the graph here as svg/pdf/png
+From here, you can also export the graph here as SVG/PDF/PNG
 
 ## Step 7: Clustering
 - In Gephi (with the data imported as described in step 5a, optionally prettified using settings in step 6), go to tab Overview
@@ -127,5 +127,11 @@ To filter for different clusters:
 - Select Filters > Attributes > Partition > Modularity class (Nodes)
 - In Queries, select cluster you want to filter on, click Filter
 
+## Step 8 Save/export
+- File > Export 
+- Choose Graph file to export as .gephi file (to work on in Gephi) or .gexf to use in other programs 
+- Choose SVG/PDF/PNG to export as... those. 
+
+## Resulting files: 
 
 
