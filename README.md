@@ -7,15 +7,16 @@ How cool would it be if you could analyze the current global state of scholarly 
 
 The results of our 2015-2016 survey on research tool usage can provide insights into current practices across various fields, research roles, countries and career stages, and can be useful for researchers interested in changing research workflows. The data also makes it possible to correlate research tool usage to stance on Open Access and Open Science, and contains over 10,000 free-text answers on what respondents consider the most important developments in scholarly communication.
 
-The full raw and cleaned dataset of the survey (20,663 responses) is available on [Zenodo] (http://dx.doi.org/10.5281/zenodo.49583). Quick exploration of the survey results can be done in an [interactive dashboard on Silk] (http://dashboard101innovations.silk.co), but many more in-depth analyses are possible. To facilitate this, we also made the data available as [open dataset on Kaggle] (https://www.kaggle.com/bmkramer/101-innovations-research-tools-survey) where scripts (in R, Python, Julia) can be written, executed and shared. 
+To facilitate collaboration on in-depth analysis, we made the data available as [open dataset on Kaggle] (https://www.kaggle.com/bmkramer/101-innovations-research-tools-survey) where scripts (in R, Python, Julia) can be written, executed and shared. Quick exploration of the survey results can be done in an [interactive dashboard on Silk] (http://dashboard101innovations.silk.co). The full raw and cleaned dataset of the survey (20,663 responses) is also available on [Zenodo] (http://dx.doi.org/10.5281/zenodo.49583), but we recommend downloading the data from Kaggle (see above).
 
 ## Mozilla Science Lab Global Sprint 2016 (June 2-3, 2016)
-During the upcoming [Mozilla Science Lab Global Sprint
-2016](https://www.mozillascience.org/global-sprint-2016), we intend to make a head-start with these analyses by bringing together people with expertise in numerical and textual analysis. We invite all smart people, but especially those with experience in e.g. R, Python, Google Refine, NVIVO or AtlasTI. Any and all ideas for analysis are welcome! You are invited to join us, which you can announce here: https://ti.to/mozilla-science/gs2016-utrecht.
+During the [Mozilla Science Lab Global Sprint
+2016](https://www.mozillascience.org/global-sprint-2016), we made a start with these analyses by bringing together people with expertise in numerical and textual analysis. 
 
-Please note that the sprint will take place between 9:00-13:00 on both days. Participants are of course free to continue working after these hours, and online support will be given wherever possible.
+During the sprint, we used this etherpad to share thoughts, ideas, code snippets etc.: https://public.etherpad-mozilla.org/p/sprintutrecht
 
-During the sprint, we will be using this etherpad to share thoughts, ideas, code snippets etc.: https://public.etherpad-mozilla.org/p/sprintutrecht
+## ReCon Hackday (June 25, 2016)
+During the [ReCon Hackday 2016](https://reconevent.com/hackday/), we hope to continue to work on these analyses with the help of smart people present, especially those with experience in e.g. R, Python, Google Refine, NVIVO or AtlasTI. Any and all ideas for analysis are welcome!
 
 ## Issue list
 We added a [list of (broadly formulated) issues] (https://github.com/bmkramer/101innovations-survey-data/issues) to work on. Please add to them, add your comments and contribute where you can and want! 
