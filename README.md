@@ -67,7 +67,7 @@ Attributes to add:
   - Add column **TMIE** with TMIE-classification of each tool (Traditional, Modern, Innovative, Experimental)
   - Add column **GEO** with GEO-classification of each tool (Good, Efficient, Open, or a combination of two of these)
 
-This step should optimally be coded in R as well, but for now, I did it in Calc with VLOOKUP and some manual adjustments for unique tool names. 
+This step should really be coded in R as well (anyone?), but for now, I did it in Calc with VLOOKUP and some manual adjustments for unique tool names. 
 
 Attributes can be retrieved from:
 - survey data (cleaned) (**Weight**) (from [Zenodo] (http://dx.doi.org/10.5281/zenodo.49583) or [Kaggle] (https://www.kaggle.com/bmkramer/101-innovations-research-tools-survey))
@@ -112,8 +112,8 @@ The node table will now be imported and all existing nodes will be updated with 
   - In dropdown menu under graph display, choose Labels
   - Tick Node
   - Size: Node size
-  - Font Arial Bold 32, use slider to adjust
+  - Font Arial Bold 32, use slider to adjust label size
   
-  To see a preview of the graph, select the tab Layout 
+  To see a preview of the graph, select the tab Layout. Adjust settings and click 'Refresh' to see the effect. 
 
-To view 
+
