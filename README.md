@@ -27,4 +27,4 @@ To read more about the background and goals of this project, and about a related
 - The [survey dataset on Kaggle] (https://www.kaggle.com/bmkramer/101-innovations-research-tools-survey) where data can be downloaded and scripts can be written, executed and shared
 - The [400+ tools database](http://bit.ly/innoscholcomm-list) with information on currently over 600 online scholarly communication tools across the research cycle 
 
-![Open Science workflow example](collected%20circles%20cropped%20medium.jpg)
+![Open Science workflow example](https://github.com/bmkramer/101innovations-survey-data/blob/mozfest2016-Open-Science-workflows/Open_Science_workflow_example_medium.jpg)
