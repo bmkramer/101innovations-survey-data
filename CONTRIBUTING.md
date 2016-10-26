@@ -21,11 +21,11 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 During the session, we'll be working on a number of activities, some offline, some online. 
 These are designed to be done sequentially during the session.
 
-* Examples of open research practices 
-* Combining of open research practices in an open science workflow
-* What is interoperability?
-* Assess interoperability of selected practices/tools
-* Ideas for action
+* [Examples of open research practices]()
+* [Combining of open research practices in an open science workflow]()
+* [What is interoperability?]()
+* [Assess interoperability of selected practices/tools]()
+* [Ideas for action](issues/17)
 
 [hier nog issues van maken]
 
