@@ -1,4 +1,4 @@
-![101 Innovations in Scholarly Communication](https://101innovations.files.wordpress.com/2015/04/cropped-innoscholcomm_figure_jan2015_rising_sun_compressed1.png "101 Innovations in Scholarly Communication")
+
 
 # Discovering patterns in 20663 individual research workflows 
 - using data from our recent [global survey on Innovations in Scholarly Communication] (http://101innovations.wordpress.com) 
