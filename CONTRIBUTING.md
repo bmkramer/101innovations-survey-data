@@ -1,4 +1,4 @@
-# Real-life Open Science workflows: use and interoperability of research tools - how can I contribute? 
+# Real-life Open Science workflows: use and interoperability of research tools - How can I contribute? 
 
 Thank you for your interest in contributing to our Mozfest2016 session! :tada:! 
 
