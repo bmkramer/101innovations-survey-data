@@ -1,3 +1,5 @@
+![101 Innovations in Scholarly Communication](InnoScholComm_figure_jan2015_rising_sun_compressed.png)
+
 # Discovering patterns in 20663 individual research workflows 
 - using data from our recent [global survey on Innovations in Scholarly Communication] (http://101innovations.wordpress.com) 
 
