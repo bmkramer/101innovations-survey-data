@@ -1,26 +1,18 @@
-# Contributing to Real-life Open Science workflows: use and interoperability of research tools
+# Real-life Open Science workflows: use and interoperability of research tools - how can I contribute? 
 
-Add a bit of welcome and cheer at the top
->Thank you for your interest in contributing to our Mozfest2016 session! :tada:! 
+Thank you for your interest in contributing to our Mozfest2016 session! :tada:! 
 
-Restart your project vision here. Redundancy is your friend
->[Project] is ...
+We will look at how Open Science practices can be combined into a full Open Science workflow. We also want to come up with concrete ideas to improve the use and interoperability of Open Science tools.
 
-Add some info on *why* people should read your contributor guidelines and *what* they are.
-
->This documents is a set of guidelines for contributing to [Project] on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
-
-If your guide is long, consider adding a table of contents.
+This documents is a set of guidelines for contributing to this Mozfest2016 session on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
 * [Participation guidelines](#participation-guidelines)
 * [What we're working on](#what-were-working-on)
-* [How to submit changes](#how-to-submit-changes)
-* [How to report bugs](#how-to-report-bugs)
 * [Communication channels](#communication-channels)
 
 ## Participation guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to .
 
 ## What we're working on
 
