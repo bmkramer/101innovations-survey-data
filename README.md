@@ -18,6 +18,9 @@ During the sprint, we used this etherpad to share thoughts, ideas, code snippets
 ## ReCon Hackday (June 25, 2016)
 During the [ReCon Hackday 2016](https://reconevent.com/hackday/), we hope to continue to work on these analyses with the help of smart people present, especially those with experience in e.g. R, Python, Google Refine, NVIVO or AtlasTI. Any and all ideas for analysis are welcome!
 
+## Mozfest2016 (Oct 28-30, 2016)
+During [Mozfest2016](link)
+
 ## Issue list
 We added a [list of (broadly formulated) issues] (https://github.com/bmkramer/101innovations-survey-data/issues) to work on. Please add to them, add your comments and contribute where you can and want! 
 
