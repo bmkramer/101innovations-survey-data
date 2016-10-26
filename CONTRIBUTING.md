@@ -10,6 +10,7 @@ This documents is a set of guidelines for contributing to this Mozfest2016 sessi
 * [Participation guidelines](#participation-guidelines)
 * [What we're working on](#what-were-working-on)
 * [Communication channels](#communication-channels)
+* [Useful links during the session](#useful-links-during-the-session)
 
 ## Participation guidelines
 
@@ -44,6 +45,10 @@ Most projects invite all contributors to report bugs, so "debugging" or fixing p
 > Notice a mistake? Please file any bugs, requests, or questions in our issue tracker [LINK TO ISSUE TRACKER]!
 
 ## Communication channels
+- We will be using this [etherpad](https://public.etherpad-mozilla.org/p/mozfest-2016-real-life-open-science-workflows--use) - for sharing notes, results and ideas during the session.
 
-Do you have a chat room or email list you use to discuss this project? List them all here! Provide clear contact info, and outline the process for getting in touch, for anyone with questions.
+## Useful links during the session
+- The project [Innovations in Scholarly Communication] (https://101innovations.wordpress.com/about-1/)
+- The [survey dataset on Kaggle] (https://www.kaggle.com/bmkramer/101-innovations-research-tools-survey) where data can be downloaded and scripts can be written, executed and shared
+- The [400+ tools database](http://bit.ly/innoscholcomm-list) with information on currently over 600 online scholarly communication tools across the research cycle 
 
