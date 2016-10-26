@@ -21,11 +21,11 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 During the session, we'll be working on a number of activities, some offline, some online. 
 These are designed to be done sequentially during the session.
 
-* [Examples of open research practices]()
-* [Combining of open research practices in an open science workflow]()
-* [What is interoperability?]()
-* [Assess interoperability of selected practices/tools]()
-* [Ideas for action](issues/17)
+* [Examples of open research practices](https://github.com/bmkramer/101innovations-survey-data/issues/13)
+* [Combining of open research practices in an open science workflow](https://github.com/bmkramer/101innovations-survey-data/issues/14)
+* [What is interoperability?](https://github.com/bmkramer/101innovations-survey-data/issues/15)
+* [Assess interoperability of selected practices/tools](https://github.com/bmkramer/101innovations-survey-data/issues/16)
+* [Ideas for action](https://github.com/bmkramer/101innovations-survey-data/issues/17)
 
 [hier nog issues van maken]
 
