@@ -19,7 +19,9 @@ During the sprint, we used this etherpad to share thoughts, ideas, code snippets
 During the [ReCon Hackday 2016](https://reconevent.com/hackday/), we hope to continue to work on these analyses with the help of smart people present, especially those with experience in e.g. R, Python, Google Refine, NVIVO or AtlasTI. Any and all ideas for analysis are welcome!
 
 ## Mozfest2016 (Oct 28-30, 2016)
-During [Mozfest2016](link)
+During [Mozfest2016](https://mozillafestival.org/), we want to explore to which degree researchers can and do employ a full Open Science workflow. This [session](https://app.mozillafestival.org/#_session-338) will be both on statistical analysis of survey results and technical appraisal of Open Science tools and platforms. 
+
+During Mozfest, we will make use an [etherpad](https://public.etherpad-mozilla.org/p/mozfest-2016-real-life-open-science-workflows--use) to share thoughts, ideas and outcomes. We will also use a [specially created branch](https://github.com/bmkramer/101innovations-survey-data/tree/mozfest2016-Open-Science-workflows) of this repo. 
 
 ## Issue list
 We added a [list of (broadly formulated) issues] (https://github.com/bmkramer/101innovations-survey-data/issues) to work on. Please add to them, add your comments and contribute where you can and want! 
