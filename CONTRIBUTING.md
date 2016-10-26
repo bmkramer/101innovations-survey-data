@@ -5,7 +5,7 @@ Thank you for your interest in contributing to our Mozfest2016 session 'Real-lif
 ## What will we be doing?
 We will look at how Open Science practices can be combined into a full Open Science workflow. We also want to come up with concrete ideas to improve the use and interoperability of Open Science tools.
 
-This documents is a set of guidelines for contributing to this Mozfest2016 session on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
+This documents is a set of guidelines for contributing to this Mozfest2016 session. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
 * [Participation guidelines](#participation-guidelines)
 * [What we're working on](#what-were-working-on)
@@ -16,36 +16,20 @@ This documents is a set of guidelines for contributing to this Mozfest2016 sessi
 
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to .
 
-## What we're working on
+## Activities during the session
 
-This is a good place to link your Roadmap, GitHub Milestones, or Projects so newcomers can see what you're working on.
+During the session, we'll be working on a number of activities, some offline, some online. 
+These are designed to be done sequentially during the session.
 
-> Take a look at the issues in our [current milestone](https://github.com/acabunoc/mozfest-repo-template/milestone/1) or browse some [good first bugs](https://github.com/acabunoc/mozfest-repo-template/labels/good%20first%20bug) to get started!
-
-Take a look at this [Roadmapping exercise](http://mozillascience.github.io/working-open-workshop/roadmapping/) to start making your own milestones and issues. This will help newcomers (& MozFest attendees!) know where they can help.
-
-## How to submit changes
-
-Explain how you want contributors to propose changes. For an example GitHub workflow, see Node.js's [instructions for code contributions](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions).
-
-> Once you've identified one of the issues above that you feel you can contribute to, you're ready to make a change to the project repository!
- 
-> 1. **[Fork](https://help.github.com/articles/fork-a-repo/) this repository**. This makes your own version of this project you can edit and use.
-> 2. **[Make your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
-> 3. **Submit a [pull request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/)**. This opens a discussion around your project and lets the project lead know you are proposing changes.
-
-> First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
-
-## How to report bugs
-
-Ask your contributors to stay on the lookout for can any potential issue that might cause problems for the project. These could be problems in code (if you’re creating software), content omissions or copy errors (if you’re creating a learning resource), or any issues with the functionality or design of your project. 
-
-Most projects invite all contributors to report bugs, so "debugging" or fixing problems happens quickly and with the input of the community. Take a look at [Atom's example](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#reporting-bugs) for how to teach people to report bugs to your project.
-
-> Notice a mistake? Please file any bugs, requests, or questions in our issue tracker [LINK TO ISSUE TRACKER]!
+* Examples of open research practices 
+* Combining of open research practices in an open science workflow
+* What is interoperability?
+* Assess interoperability of selected practices/tools
+* Ideas for action
 
 ## Communication channels
 - We will be using this [etherpad](https://public.etherpad-mozilla.org/p/mozfest-2016-real-life-open-science-workflows--use) - for sharing notes, results and ideas during the session.
+- You can contact us as any time via Twitter ([@jeroenbosman](http://twitter.com/jeroenbosman))/([@MsPhelps](http://twitter.com/MsPhelps)) or e-mail (mailto:j.m.bosman@uu.nl / mailto:b.m.r.kramer@uu.nl )
 
 ## Useful links during the session
 - The project [Innovations in Scholarly Communication] (https://101innovations.wordpress.com/about-1/)
