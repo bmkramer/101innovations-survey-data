@@ -13,7 +13,7 @@ There are currently many Open Science tools and platforms available, and we want
 
 ## How can I get involved?
 * Come to our [session](https://app.mozillafestival.org/#_session-338)! It's on Saturday afternoon (3:15-5:15 pm) at floor 9, room 903. 
-* In our Contributing guidelines(add link) you can read more about the goals and activities during the session. 
+* In our [Contributing guidelines](CONTRIBUTING.md) you can read more about the goals and activities during the session. 
 * Check out the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) code which applies to all facilitators and participants of this session.
 
 
