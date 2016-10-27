@@ -8,7 +8,6 @@ We will look at how Open Science practices can be combined into a full Open Scie
 This documents is a set of guidelines for contributing to this Mozfest2016 session. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
 * [Participation guidelines](#participation-guidelines)
-* [What we're working on](#what-were-working-on)
 * [Communication channels](#communication-channels)
 * [Useful links during the session](#useful-links-during-the-session)
 
