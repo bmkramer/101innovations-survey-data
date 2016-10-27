@@ -3,7 +3,7 @@
 Thank you for your interest in contributing to our Mozfest2016 session 'Real-life Open Science workflows'! :tada:! 
 
 ## What will we be doing?
-We will look at how Open Science practices can be combined into a full Open Science workflow. We also want to come up with concrete ideas to improve the use and interoperability of Open Science tools.
+We will look at how Open Science practices can be combined into a full Open Science workflow. We also want to come up with concrete ideas to improve the use and interoperability of Open Science tools, so that scholars and scientists experience less obstacles in using these.
 
 This documents is a set of guidelines for contributing to this Mozfest2016 session. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
