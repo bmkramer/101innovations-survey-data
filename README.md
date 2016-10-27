@@ -4,7 +4,7 @@
 - [Mozfest2016](https://mozillafestival.org/) session using data from our recent [global survey on Innovations in Scholarly Communication] (http://101innovations.wordpress.com) 
 
 ## What will we be doing?
-We will look at how Open Science practices can be combined into a full Open Science workflow. We also want to come up with concrete ideas to improve the use and interoperability of Open Science tools.
+We will look at how Open Science practices can be combined into a full Open Science workflow. We also want to come up with concrete ideas to improve the use and interoperability of Open Science tools, so that scholars and scientists experience less obstacles in using these.
 
 ## Tell me more!
 There are currently many Open Science tools and platforms available, and we want to explore to which degree researchers can and do employ these in a full Open Science workflow. During MozFest, we would like to do this together using the results of our survey (> 20K respondents), which not only asked about support for Open Science but also about active use of platforms, tools and websites for 17 research activities and our database of >600 research tools. You can contribute with your experience in using research tools, with your ideas on what makes open science tick and with your skills in analysing the survey data and doing some technical appraisal of Open Science tools and platforms.
