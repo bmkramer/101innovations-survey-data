@@ -8,7 +8,7 @@ We will look at how Open Science practices can be combined into a full Open Scie
 
 ## What will we be doing? Tell me more!
 There are currently many Open Science tools and platforms available, and we want to explore to which degree researchers can and do employ these in a full Open Science workflow. During MozFest, we would like to do this together using the results of our survey (> 20K respondents), which not only asked about support for Open Science but also about active use of platforms, tools and websites for 17 research activities and our database of >600 research tools. You can contribute with your experience in using research tools, with your ideas on what makes open science tick and with your skills in analysing the survey data and doing some technical appraisal of Open Science tools and platforms.
-
+You can also have a look at our [open canvas](https://docs.google.com/spreadsheets/d/1v6oeOfoRqIt7L_Zzel0ECSyVlCDfBwNouRn5yhz4mBU/edit?usp=sharing).
 
 ![Open Science workflow example](https://github.com/bmkramer/101innovations-survey-data/blob/mozfest2016-Open-Science-workflows/Open_Science_workflow_example_medium.jpg)
 
