@@ -27,8 +27,6 @@ These are designed to be done sequentially during the session.
 * [Assess interoperability of selected practices/tools](https://github.com/bmkramer/101innovations-survey-data/issues/16)
 * [Ideas for action](https://github.com/bmkramer/101innovations-survey-data/issues/17)
 
-[hier nog issues van maken]
-
 ## Communication channels
 - We will be using this [etherpad](https://public.etherpad-mozilla.org/p/mozfest-2016-real-life-open-science-workflows--use) - for sharing notes, results and ideas during the session.
 - You can contact us as any time via Twitter [@jeroenbosman](http://twitter.com/jeroenbosman)/[@MsPhelps](http://twitter.com/MsPhelps) or e-mail [j.m.bosman@uu.nl](mailto:j.m.bosman@uu.nl) / [b.m.r.kramer@uu.nl](mailto:b.m.r.kramer@uu.nl )
