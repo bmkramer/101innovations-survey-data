@@ -9,6 +9,7 @@ This documents is a set of guidelines for contributing to this Mozfest2016 sessi
 
 * [Participation guidelines](#participation-guidelines)
 * [Communication channels](#communication-channels)
+* [Activities during the session](#activities-during-the-session)
 * [Useful links during the session](#useful-links-during-the-session)
 
 ## Participation guidelines
