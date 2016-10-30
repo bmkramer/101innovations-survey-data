@@ -12,7 +12,7 @@ You can also have a look at our [open canvas](https://docs.google.com/spreadshee
 
 ![Open Science workflow example](https://github.com/bmkramer/101innovations-survey-data/blob/mozfest2016-Open-Science-workflows/Open_Science_workflow_example_medium.jpg)
 
-![Open Science workflow resukt](https://github.com/bmkramer/101innovations-survey-data/blob/mozfest2016-Open-Science-workflows/Mozfest_2016_Open_Science_workflows_small.png)
+![Open Science workflow resukt](https://github.com/bmkramer/101innovations-survey-data/blob/mozfest2016-Open-Science-workflows/Mozfest_2016_Open_Science_workflows_small.jpg)
 
 ## How can I get involved?
 * Come to our [session](https://app.mozillafestival.org/#_session-338)! It's on Saturday afternoon (3:15-5:15 pm) at floor 9, room 903. 
