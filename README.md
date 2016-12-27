@@ -2,12 +2,19 @@
 
 # Discovering patterns in 20663 individual research workflows 
 - using data from our recent [global survey on Innovations in Scholarly Communication] (http://101innovations.wordpress.com)
+- this is a subbranch from master repo [101innovations-survey-data] (https://github.com/bmkramer/101innovations-survey-data)
 
 ## About
 
-How cool would it be if you could analyze the current global state of scholarly communication and research practices not only by what people say, but by their active use of certain platforms, tools and websites? Well … now you can!
+The results of our 2015-2016 survey on research tool usage can provide insights into current practices across various fields, research roles, countries and career stages, and can be useful for researchers interested in changing research workflows. 
 
-The results of our 2015-2016 survey on research tool usage can provide insights into current practices across various fields, research roles, countries and career stages, and can be useful for researchers interested in changing research workflows. The data also makes it possible to correlate research tool usage to stance on Open Access and Open Science, and contains over 10,000 free-text answers on what respondents consider the most important developments in scholarly communication.
+Based on co-occurrences of tools/platforms in workflows, we aim to identify tool combinations that make up typical research workflows. 
+Previously, we identified tool combinations (from the 119 preset tools/platforms in our survey) that are used together more or less often than expected by chance (for details see our blogpost [Tools that love to be together](https://101innovations.wordpress.com/2016/11/06/tools-that-love-to-be-together/)).
+
+One of the possibilities to extend this analysis from separate tool combinations into groups of tools typifying full research workflows. Two of these possibilities are looking at clusters and cliques, respectively.
+
+1. Clusters: tools occurring in similar workflows
+Based on our co-occurrence data, we can look at which tools occur in similar workflows, i.e. have the most tools in common that they are or are not specifically used with. 
 
 To facilitate collaboration on in-depth analysis, we made the data available as [open dataset on Kaggle] (https://www.kaggle.com/bmkramer/101-innovations-research-tools-survey) where scripts (in R, Python, Julia) can be written, executed and shared. Quick exploration of the survey results can be done in an [interactive dashboard on Silk] (http://dashboard101innovations.silk.co). The full raw and cleaned dataset of the survey (20,663 responses) is also available on [Zenodo] (http://dx.doi.org/10.5281/zenodo.49583), but we recommend downloading the data from Kaggle (see above).
 
