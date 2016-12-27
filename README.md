@@ -17,7 +17,7 @@ Based on our co-occurrence data, we can look at which tools occur in similar wor
 
 The source data ([survey_presets_frequencies_2-tailed_p-values_coded.csv] (survey_presets_frequencies_2-tailed_p-values_coded.csv)) is a matrix of assigned values (1, 0, -1 or NA) for all tool combinations, indicating significant (1, -1) or non-significant (0) p-values for the 2-tailed cumulative hypergeometric test used to determine whether tool combinations occur more (1) or less (-1) often together than expected by chance. 
 
-When run with our hypergeometric test data, the clustering analysis script assigns each tool combination a color (1=green, -1=red, 0=white, NA=grey) and sorts them by placing tools that have a similar pattern of correlation with other tools closer together. The tree structure on both sides of the diagram indicates the hierarchy of tools that are most similar in this respect.
+When run with our hypergeometric test data, the clustering analysis script ([survey_heatmap_plot_RG_white_notrace.R] (survey_heatmap_plot_RG_white_notrace.R)) assigns each tool combination a color (1=green, -1=red, 0=white, NA=grey) and sorts them by placing tools that have a similar pattern of correlation with other tools closer together. The tree structure on both sides of the diagram indicates the hierarchy of tools that are most similar in this respect.
 
 
 ![cluster results preset tools 101 innovations survey] (survey_heatmap_p-values_2-tailed_coded_RG_white.png)
