@@ -23,7 +23,7 @@ For more information and interpretation of the results, see our blogpost [String
 
 The script was provided by [Bastian Greshake] (https://github.com/gedankenstuecke).
 
-
+![cluster results preset tools 101 innovations survey] (survey_heatmap_p-values_2-tailed_coded_RG_white.png)
 
 
 ## Further Information
