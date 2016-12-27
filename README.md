@@ -1,6 +1,6 @@
 ![Stringing beads](Stringing_beads_cropped.jpg)
 
-# Discovering patterns in 20663 individual research workflows 
+# Stringing beads: identifying research workflows from tool usage data - clusters 
 - using data from our recent [global survey on Innovations in Scholarly Communication] (http://101innovations.wordpress.com)
 - this is a subbranch from master repo [101innovations-survey-data] (https://github.com/bmkramer/101innovations-survey-data)
 
