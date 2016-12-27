@@ -15,7 +15,7 @@ To extend this analysis from separate tool combinations into groups of tools typ
 ## Clusters: tools occurring in similar workflows
 Based on our co-occurrence data, we can look at which tools occur in similar workflows, i.e. have the most tools in common that they are or are not specifically used with. 
 
-The source data is a matrix of assigned values (1, 0, -1 or NA) for all tool combinations, indicating significant (1, -1) or non-significant (0) p-values for the 2-tailed cumulative hypergeometric test used to determine whether tool combinations occur more (1) or less (-1) often together than expected by chance. 
+The source data ([survey_presets_frequencies_2-tailed_p-values_coded.csv] (survey_presets_frequencies_2-tailed_p-values_coded.csv)) is a matrix of assigned values (1, 0, -1 or NA) for all tool combinations, indicating significant (1, -1) or non-significant (0) p-values for the 2-tailed cumulative hypergeometric test used to determine whether tool combinations occur more (1) or less (-1) often together than expected by chance. 
 
 When run with our hypergeometric test data, the clustering analysis script assigns each tool combination a color (1=green, -1=red, 0=white, NA=grey) and sorts them by placing tools that have a similar pattern of correlation with other tools closer together. The tree structure on both sides of the diagram indicates the hierarchy of tools that are most similar in this respect.
 
