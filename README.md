@@ -1,6 +1,6 @@
 ![Stringing beads](Stringing_beads_cropped.jpg)
 
-# Stringing beads: identifying research workflows from tool usage data - clusters 
+# Stringing beads - identifying research workflows from tool usage data (clustering)
 - using data from our recent [global survey on Innovations in Scholarly Communication] (http://101innovations.wordpress.com)
 - this is a subbranch from master repo [101innovations-survey-data] (https://github.com/bmkramer/101innovations-survey-data)
 
