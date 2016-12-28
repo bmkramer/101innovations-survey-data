@@ -22,7 +22,7 @@ When run with our hypergeometric test data, the clustering analysis script ([sur
 
 ![cluster results preset tools 101 innovations survey] (survey_heatmap_p-values_2-tailed_coded_RG_white.png)
 
-For more information and interpretation of the results, see our blogpost [Stringing beads: from tool combinations to workflows] [add link when published]
+For more information and interpretation of the results, see our blogpost [Stringing beads: from tool combinations to workflows] (https://101innovations.wordpress.com/2016/12/28/stringing-beads-from-tool-combinations-to-workflows/)
 
 The script was provided by [Bastian Greshake] (https://github.com/gedankenstuecke); color and grid line representations were further adapted. 
 
