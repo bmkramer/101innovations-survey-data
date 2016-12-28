@@ -12,10 +12,10 @@ Based on co-occurrences of tools/platforms, we aim to identify typical research 
 
 To extend this analysis from separate tool combinations into groups of tools typifying full research workflows, one of the possibilities is looking at cliques.
 
-## Clusters: tools that are linked together as a group
+## Cliques: tools that are linked together as a group
 Based on our co-occurrence data, we can identify groups of tools that are all specifically used with *all* other tools in that group. In network theory, such groups are called 'cliques'.
 
-The source data ([survey_presets_frequencies_2-tailed_p-values_coded.csv] (survey_presets_frequencies_2-tailed_p-values_coded.csv)) is a matrix of assigned values (1, 0, -1 or NA) for all tool combinations, indicating significant (1, -1) or non-significant (0) p-values for the 2-tailed cumulative hypergeometric test used to determine whether tool combinations occur more (1) or less (-1) often together than expected by chance. 
+The source data ([values_survey_hypergeometric_1s.csv] (values_survey_hypergeometric_1s.csv)) is a matrix of assigned values (1, 0, -1 or NA) for all tool combinations, indicating significant p-values for the 2-tailed cumulative hypergeometric test used to determine whether tool combinations occur more (1) or less (-1) often together than expected by chance. 
 
 When run with our hypergeometric test data, the clique analysis script ([survey_heatmap_plot_RG_white_notrace.R] (survey_heatmap_plot_RG_white_notrace.R)) Using this library [create GitHub repo] we found that the largest cliques in our set of tools consist of 17 tools. We identified 8 of these cliques, which are partially overlapping. In total, there are over 3000 'maximal cliques' (cliques that cannot be enlarged) in our dataset of 119 preset tools, varying in size from 3 tot 17 tools. 
 
