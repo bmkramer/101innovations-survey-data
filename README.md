@@ -23,7 +23,7 @@ The source data ([values_survey_hypergeometric_1s.csv] (values_survey_hypergeome
 
 When running the clique analysis script ([igraph_cliques.R] (igraph_cliques.R)) on our hypergeometric test data, we found that the largest cliques in our set of tools consist of 17 tools. We identified 8 of these cliques, which are partially overlapping. In total, there are over 3000 'maximal cliques' (cliques that cannot be enlarged) in our dataset of 119 preset tools, varying in size from 3 tot 17 tools. 
 
-![cluster results preset tools 101 innovations survey] (survey_heatmap_p-values_2-tailed_coded_RG_white.png)
+The output of the script ([max_clique_list_all.csv] (max_clique_list_all.csv)) lists all tools/platforms as numerical values. To facilitate interpretation, we also provide the results as a list with tool names, sorted on clique size ([] ())
 
 For more information and interpretation of the results, see our blogpost [Stringing beads: from tool combinations to workflows] [add link when published]
 
