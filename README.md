@@ -1,34 +1,32 @@
-![101 Innovations in Scholarly Communication](InnoScholComm_figure_jan2015_rising_sun_compressed.png)
+![Stringing beads](Stringing_beads_cropped.jpg)
 
-# Discovering patterns in 20663 individual research workflows 
+# Stringing beads - identifying research workflows from tool usage data (clustering)
 - using data from our recent [global survey on Innovations in Scholarly Communication] (http://101innovations.wordpress.com)
+- this is a subbranch from master repo [101innovations-survey-data] (https://github.com/bmkramer/101innovations-survey-data)
 
 ## About
 
-How cool would it be if you could analyze the current global state of scholarly communication and research practices not only by what people say, but by their active use of certain platforms, tools and websites? Well … now you can!
+The results of our 2015-2016 survey on research tool usage can provide insights into current practices across various fields, research roles, countries and career stages, and can be useful for researchers interested in changing research workflows. 
 
-The results of our 2015-2016 survey on research tool usage can provide insights into current practices across various fields, research roles, countries and career stages, and can be useful for researchers interested in changing research workflows. The data also makes it possible to correlate research tool usage to stance on Open Access and Open Science, and contains over 10,000 free-text answers on what respondents consider the most important developments in scholarly communication.
+Based on co-occurrences of tools/platforms, we aim to identify typical research workflows. Previously, we identified tool combinations (from the 119 preset tools/platforms in our survey) that are used together more or less often than expected by chance (for details see our blogpost [Tools that love to be together](https://101innovations.wordpress.com/2016/11/06/tools-that-love-to-be-together/)).
 
-To facilitate collaboration on in-depth analysis, we made the data available as [open dataset on Kaggle] (https://www.kaggle.com/bmkramer/101-innovations-research-tools-survey) where scripts (in R, Python, Julia) can be written, executed and shared. Quick exploration of the survey results can be done in an [interactive dashboard on Silk] (http://dashboard101innovations.silk.co). The full raw and cleaned dataset of the survey (20,663 responses) is also available on [Zenodo] (http://dx.doi.org/10.5281/zenodo.49583), but we recommend downloading the data from Kaggle (see above).
+To extend this analysis from separate tool combinations into groups of tools typifying full research workflows, one of the possibilities is looking at clusters.
 
-## Mozilla Science Lab Global Sprint 2016 (June 2-3, 2016)
-During the [Mozilla Science Lab Global Sprint
-2016](https://www.mozillascience.org/global-sprint-2016), we made a start with these analyses by bringing together people with expertise in numerical and textual analysis. 
+## Clusters: tools occurring in similar workflows
+Based on our co-occurrence data, we can look at which tools occur in similar workflows, i.e. have the most tools in common that they are or are not specifically used with. 
 
-During the sprint, we used this etherpad to share thoughts, ideas, code snippets etc.: https://public.etherpad-mozilla.org/p/sprintutrecht
+The source data ([survey_presets_frequencies_2-tailed_p-values_coded.csv] (survey_presets_frequencies_2-tailed_p-values_coded.csv)) is a matrix of assigned values (1, 0, -1 or NA) for all tool combinations, indicating significant (1, -1) or non-significant (0) p-values for the 2-tailed cumulative hypergeometric test used to determine whether tool combinations occur more (1) or less (-1) often together than expected by chance. 
 
-## ReCon Hackday (June 25, 2016)
-During the [ReCon Hackday 2016](https://reconevent.com/hackday/), we hope to continue to work on these analyses with the help of smart people present, especially those with experience in e.g. R, Python, Google Refine, NVIVO or AtlasTI. Any and all ideas for analysis are welcome!
+When run with our hypergeometric test data, the clustering analysis script ([survey_heatmap_plot_RG_white_notrace.R] (survey_heatmap_plot_RG_white_notrace.R)) assigns each tool combination a color (1=green, -1=red, 0=white, NA=grey) and sorts them by placing tools that have a similar pattern of correlation with other tools closer together. The tree structure on both sides of the diagram indicates the hierarchy of tools that are most similar in this respect.
 
-## Mozfest2016 (Oct 28-30, 2016)
-During [Mozfest2016](https://mozillafestival.org/), we want to explore to which degree researchers can and do employ a full Open Science workflow. This [session](https://app.mozillafestival.org/#_session-338) will be both on statistical analysis of survey results and technical appraisal of Open Science tools and platforms. 
 
-During Mozfest, we will use an [etherpad](https://public.etherpad-mozilla.org/p/mozfest-2016-real-life-open-science-workflows--use) to share thoughts, ideas and outcomes. We will also use a [specially created branch](https://github.com/bmkramer/101innovations-survey-data/tree/mozfest2016-Open-Science-workflows) of this repo. 
+![cluster results preset tools 101 innovations survey] (survey_heatmap_p-values_2-tailed_coded_RG_white.png)
 
-## Issue list
-We added a [list of (broadly formulated) issues] (https://github.com/bmkramer/101innovations-survey-data/issues) to work on. Please add to them, add your comments and contribute where you can and want! 
+For more information and interpretation of the results, see our blogpost [Stringing beads: from tool combinations to workflows] [add link when published]
 
 ## Further Information
 
 - The project [Innovations in Scholarly Communication] (https://101innovations.wordpress.com/about-1/)
-- The [survey dataset on Kaggle] (https://www.kaggle.com/bmkramer/101-innovations-research-tools-survey) where scripts can be written, executed and shared
+- The survey dataset on [Kaggle] (https://www.kaggle.com/bmkramer/101-innovations-research-tools-survey) where scripts can be written, executed and shared
+
+![101 Innovations in Scholarly Communication](InnoScholComm_figure_jan2015_rising_sun_compressed.png)
