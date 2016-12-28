@@ -25,7 +25,7 @@ When running the clique analysis script ([igraph_cliques.R] (igraph_cliques.R)) 
 
 The output of the script ([max_clique_list_all.csv] (max_clique_list_all.csv)) lists all tools/platforms as numerical values. To facilitate interpretation, we also provide the results as a list with tool names, sorted on clique size ([max_cliques_list_all_names.csv](max_cliques_list_all_names.csv))
 
-For more information and interpretation of the results, see our blogpost [Stringing beads: from tool combinations to workflows] [add link when published]
+For more information and interpretation of the results, see our blogpost [Stringing beads: from tool combinations to workflows] (https://101innovations.wordpress.com/2016/12/28/stringing-beads-from-tool-combinations-to-workflows/)
 
 ## Further Information
 
