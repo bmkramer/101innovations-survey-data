@@ -24,7 +24,7 @@ When run with our hypergeometric test data, the clustering analysis script ([sur
 
 For more information and interpretation of the results, see our blogpost [Stringing beads: from tool combinations to workflows] [add link when published]
 
-The script was provided by [Bastian Greshake] (https://github.com/gedankenstuecke).
+The script was provided by [Bastian Greshake] (https://github.com/gedankenstuecke); color and grid line representations were further adapted. 
 
 ## Further Information
 
